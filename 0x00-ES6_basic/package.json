@@ -1,0 +1,22 @@
+{
+  "name": "es6-basic",
+  "version": "1.0.0",
+  "description": "ES6 basics project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "babel-node",
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jest": "^27.2.1",
+    "jest": "^29.4.3"
+  }
+}
