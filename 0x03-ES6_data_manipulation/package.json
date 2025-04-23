@@ -1,0 +1,20 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "ES6 data manipulation exercises",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --experimental-modules",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.0.6",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  }
+}
